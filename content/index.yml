@@ -1,0 +1,80 @@
+hero:
+  title: "Plaçons l'humain au centre de l'innovation durable."
+  description: "Nous croyons que la durabilité et l'épanouissement humain vont de pair. Nous construisons un environnement de travail où chaque membre de l'équipe est libre de prendre des initiatives, tout en maintenant un équilibre sain entre vie professionnelle et personnelle."
+
+cta:
+  title: "Réinventons le monde des services numériques, ensemble."
+  description: "Nous croyons que le succès naît de l’épanouissement des collaborateurs et d’un équilibre entre vie professionnelle et personnelle. En tant qu'entreprise libérée, nous créons un environnement où chaque membre peut prendre des initiatives et contribuer à notre mission commune."
+  links:
+    - label: "Dev.s, rejoignez nous !"
+      color: "blue"
+      size: "lg"
+      variant: "outline"
+    - label: "Client.e.s, travaillons ensemble !"
+      color: "orange"
+      size: "lg"
+      variant: "outline"
+
+services:
+  headline: "Besoin d'un coup de main ?"
+  title: "Nos Services"
+  description: "Nous offrons des services sur-mesure en ingénierie logicielle, DevOps, et gestion de projets. Notre équipe est dédiée à trouver des solutions innovantes pour nos clients, tout en agissant de manière responsable."
+  links:
+    - label: "Discutons de votre projet"
+      color: "blue"
+      size: "lg"
+      variant: "outline"
+      to: "/contact"
+  services:
+    - name: "Développement"
+      illustration: "dev"
+    - name: "DevOps"
+      illustration: "devops"
+    - name: "Architecture"
+      illustration: "architecture"
+    - name: "Pilotage de projets"
+      illustration: "project-management"
+    - name: "Conseil & Audit"
+      illustration: "consulting"
+    - name: "Coaching"
+      illustration: "coaching"
+
+piers:
+  headline: "Les piliers de notre philosophie"
+  title: "Transparence, Collaboration et Respect"
+  description: "Nous sommes guidés par quatre principes fondamentaux : la durabilité, la transparence, le respect de la vie privée, et la liberté de collaboration. Chaque collaborateur bénéficie d'un environnement écoresponsable, d'une transparence totale sur les informations de l'entreprise, du respect de son équilibre vie professionnelle et personnelle, et de l'autonomie nécessaire pour prendre des initiatives. Ensemble, nous construisons un avenir résilient, humain et équitable."
+  features:
+    - name: "Durabilité"
+      description: "Nous nous engageons à opérer de manière écoresponsable, en adoptant des pratiques durables pour notre entreprise et notre environnement."
+    - name: "Transparence"
+      description: "La transparence est au cœur de notre culture d'entreprise. Nous partageons des informations claires et sincères pour maintenir une relation de confiance avec nos clients et nos collaborateurs."
+    - name: "Respect"
+      description: "Nous respectons la vie privée et l'équilibre entre vie professionnelle et personnelle de chaque collaborateur. Chaque individu est valorisé pour ses compétences et ses idées."
+    - name: "Liberté de collaboration"
+      description: "Nous encourageons la liberté de collaboration, permettant à nos collaborateurs de prendre des initiatives et d'innover ensemble."
+
+workTogetherDevs:
+  headline: "Rejoignez-nous"
+  title: "Futur.e.s Collaborateur.rice.s, faites partie d’une équipe qui respecte votre équilibre"
+  description: "Autonomie, formation continue, prise d'initiatives – Vous serez aux commandes de votre parcours professionnel."
+  links:
+    - label: "Dev.s, rejoignez nous !"
+      color: "blue"
+      size: "lg"
+      variant: "outline"
+      to: "/contact"
+
+workTogetherCustomers:
+  headline: "Travaillons Ensemble"
+  title: "Découvrez nos offres"
+  description: "Nous adoptons une approche responsable et collaborative pour construire des solutions numériques résilientes. Nos équipes talentueuses et motivées sont prêtes à relever vos défis."
+  links:
+    - label: "Découvrir nos domaines d'interventions"
+      color: "orange"
+      size: "lg"
+      variant: "outline"
+      to: "/services"
+
+testimonials:
+  title: "Nos collaborateur.rice.s témoignent"
+  description: "Travailler avec nous, c’est avoir la liberté de grandir, d’innover, et d’être soi-même."
