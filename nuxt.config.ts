@@ -14,4 +14,7 @@ export default defineNuxtConfig({
       cssCodeSplit: false,
     },
   },
+  colorMode: {
+    preference: 'light'
+  }
 })
