@@ -17,7 +17,7 @@ jobs:
         env:
           NUXT_UI_PRO_LICENSE: ${{ secrets.NUXT_UI_PRO_LICENSE }}
       - run: npm install
-      - run: npm run generate
+      - run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
